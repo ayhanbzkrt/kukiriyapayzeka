@@ -1,6 +1,6 @@
 # 🚀 Kukiri'nin Yapay Zeka Atölyesi
 
-![Kukiri Logo/Mascot](https://ayhanbzkrt.github.io/kukiriyapayzeka/assets/images/kukiri-mascot.svg)
+![https://ayhanbzkrt.github.io/kukiriyapayzeka/ )
 *(Yukarıdaki logo projenin ana sayfasından alınmıştır.)*
 
 ---
