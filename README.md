@@ -1,7 +1,7 @@
 # 🚀 Kukiri'nin Yapay Zeka Atölyesi
 
 ![https://ayhanbzkrt.github.io/kukiriyapayzeka/ )
-*(Yukarıdaki logo projenin ana sayfasından alınmıştır.)*
+
 
 ---
 
