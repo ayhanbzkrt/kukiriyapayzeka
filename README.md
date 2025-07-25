@@ -1,6 +1,6 @@
 # 🚀 Kukiri'nin Yapay Zeka Atölyesi
 
-![https://ayhanbzkrt.github.io/kukiriyapayzeka/ )
+https://ayhanbzkrt.github.io/kukiriyapayzeka/
 
 
 ---
